@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hacker-3342
-- 👀 I’m interested in python app development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me email: hectoruru@outlook.es | phone number: +34 623 067 353
+- 👀 I’m interested in Python app development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 How to reach me - email: hectoruru@outlook.es | phone number: +34 623 067 353
 - 😄 Pronouns: he/him
 
 <!---
